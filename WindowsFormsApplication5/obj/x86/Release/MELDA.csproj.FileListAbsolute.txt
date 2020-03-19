@@ -1,0 +1,72 @@
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\bin\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.ResolveComReference.cache
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Form1.resources
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.GenerateResource.Cache
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\WindowsFormsApplication5\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\obj\x86\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\obj\x86\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.ResolveComReference.cache
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\bin\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\bin\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Form1.resources
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Brian\OneDrive\MELDA 1.1\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.GenerateResource.Cache
+C:\Users\Brian\Downloads\MELDA 1.2\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+C:\Users\Brian\Downloads\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\Downloads\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\Downloads\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.ResolveComReference.cache
+C:\Users\Brian\Downloads\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\Downloads\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.ResolveComReference.cache
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\bin\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\bin\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Form1.resources
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Brian\OneDrive\MELDA 1.2\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.GenerateResource.Cache
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\obj\x86\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\obj\x86\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.ResolveComReference.cache
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\bin\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\bin\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Form1.resources
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Brian\OneDrive\MELDA 1.3\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.GenerateResource.Cache
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe.config
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\obj\x86\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\obj\x86\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.ResolveComReference.cache
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.exe
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\bin\Release\WindowsFormsApplication5.pdb
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\bin\Release\Interop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\bin\Release\AxInterop.ActiveFlyCapLib.dll
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Form1.resources
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Form2.resources
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\obj\x86\Release\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\Brian\OneDrive\Melda 1.4\WindowsFormsApplication5\obj\x86\Release\MELDA.csproj.GenerateResource.Cache
